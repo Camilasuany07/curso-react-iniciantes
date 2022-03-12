@@ -1,2 +1,3 @@
 # curso-react-iniciantes
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://hik8kd.csb.app/)
